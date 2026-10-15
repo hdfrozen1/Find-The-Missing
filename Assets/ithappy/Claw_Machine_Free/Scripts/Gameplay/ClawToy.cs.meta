@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 152e480a140ae044b8ff5a882ba12281
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 409820
+  packageName: Claw Machine Free
+  packageVersion: 1.0
+  assetPath: Assets/ithappy/Claw_Machine_Free/Scripts/Gameplay/ClawToy.cs
+  uploadId: 1008678

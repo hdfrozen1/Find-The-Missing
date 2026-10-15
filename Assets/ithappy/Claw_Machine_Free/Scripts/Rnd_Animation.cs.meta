@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: abb7fef22bab37e40a040ec85a0dabb8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 409820
+  packageName: Claw Machine Free
+  packageVersion: 1.0
+  assetPath: Assets/ithappy/Claw_Machine_Free/Scripts/Rnd_Animation.cs
+  uploadId: 1008678

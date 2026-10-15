@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 40022fd90d0486a41b73fed7e2100dc9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 409820
+  packageName: Claw Machine Free
+  packageVersion: 1.0
+  assetPath: Assets/ithappy/Claw_Machine_Free/Scripts/OscillatePosition.cs
+  uploadId: 1008678

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5154eb170952f5e4cb9c3b42c61297ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 409820
+  packageName: Claw Machine Free
+  packageVersion: 1.0
+  assetPath: Assets/ithappy/Claw_Machine_Free/Scripts/OscillateRotation.cs
+  uploadId: 1008678

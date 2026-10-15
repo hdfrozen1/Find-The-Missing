@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8616322285af9064fa4d8976da9c7d24
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 409820
+  packageName: Claw Machine Free
+  packageVersion: 1.0
+  assetPath: Assets/ithappy/Claw_Machine_Free/Prefabs/Gameplay/PlayableClawMachine.prefab
+  uploadId: 1008678

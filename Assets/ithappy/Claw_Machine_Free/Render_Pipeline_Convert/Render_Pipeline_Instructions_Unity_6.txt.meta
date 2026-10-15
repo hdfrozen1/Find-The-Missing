@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 321756965f902c740b7fea9c00fa9d7f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 409820
+  packageName: Claw Machine Free
+  packageVersion: 1.0
+  assetPath: Assets/ithappy/Claw_Machine_Free/Render_Pipeline_Convert/Render_Pipeline_Instructions_Unity_6.txt
+  uploadId: 1008678

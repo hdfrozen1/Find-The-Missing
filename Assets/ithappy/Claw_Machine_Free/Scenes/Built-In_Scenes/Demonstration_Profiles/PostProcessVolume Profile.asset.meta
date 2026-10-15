@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 88683a36d93c528408fcaeba31e995fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 409820
+  packageName: Claw Machine Free
+  packageVersion: 1.0
+  assetPath: Assets/ithappy/Claw_Machine_Free/Scenes/Built-In_Scenes/Demonstration_Profiles/PostProcessVolume
+    Profile.asset
+  uploadId: 1008678

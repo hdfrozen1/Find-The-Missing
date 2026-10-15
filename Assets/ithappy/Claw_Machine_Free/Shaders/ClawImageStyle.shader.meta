@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 732c7a22f06cc17428c3991eec0da120
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 409820
+  packageName: Claw Machine Free
+  packageVersion: 1.0
+  assetPath: Assets/ithappy/Claw_Machine_Free/Shaders/ClawImageStyle.shader
+  uploadId: 1008678
