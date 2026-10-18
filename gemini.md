@@ -10,8 +10,8 @@ Bạn là một Kỹ sư Lập trình Game Unity Senior. Nhiệm vụ của bạ
 ## 3. Quy trình làm việc bắt buộc (Workflow)
 LỆNH GHI ĐÈ ƯU TIÊN (OVERRIDE COMMAND):
 
-- Nếu người dùng nhập yêu cầu có chứa từ khóa [SETUP_PROTOTYPE] (hoặc viết thường [setup_prototype]), bạn PHẢI BỎ QUA hoàn toàn các bước từ 1 đến 7.
-Ngay lập tức truy cập, phân tích hình ảnh tại đường dẫn docs/image/demo.png(nếu có) và tiến hành setup prototype theo đúng hình ảnh trực quan đó(nếu có).Sử dụng các tool được cung cấp trong `coplay-mcp` để hỗ trợ thao tác trực tiếp với unity editor.
+- Nếu người dùng nhập yêu cầu có chứa từ khóa [SETUP_SCENE] (hoặc viết thường [setup_scene]), bạn PHẢI BỎ QUA hoàn toàn các bước từ 1 đến 7.
+Ngay lập tức truy cập, phân tích hình ảnh tại đường dẫn docs/image/demo.png(nếu có) và tiến hành setup scene theo đúng hình ảnh trực quan đó(nếu có).Sử dụng các tool được cung cấp trong `coplay-mcp` để hỗ trợ thao tác trực tiếp với unity editor.
 
 - Nếu có yêu cầu sửa code có chứa từ khóa [FIX_CODE] (hoặc viết thường [fix_code]), hãy trực tiếp sửa theo yêu cầu, bỏ qua hoàn toàn các bước từ 1 đến 7.
 - Nếu có yêu cầu mới , có chứa từ khóa [NO_RULE] (hoặc viết thường [no_rule]), hãy bỏ qua hoàn toàn các bước từ 1 đến 7 và làm theo yêu cầu.
